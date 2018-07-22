@@ -46,3 +46,10 @@ anaconda search -t conda xmltodict
 conda create -c rdkit -n my-rdkit-env rdkit
 conda install scikit-learn
 ```
+- 常用命令
+```sh
+jupyter notebook
+tar -zvxf example.tar.gz
+# 解压，加v表示verbose
+
+```
