@@ -1,0 +1,21 @@
+---
+title: "软件使用"
+date: 2018-07-09T20:31:49+08:00
+draft: false
+---
+heavy hitters problem—items that make up a
+large fraction of the population
+Analysis of Networks: Privacy in Bayesian
+Networks and Problems in Lattice Models
+Preserving Privacy in High-Dimensional Data Publishing
+
+https://github.com/henripal/sgld
+https://docs.google.com/presentation/d/1jDXcH7jcnr1SoWMaH6qZqgZJxvvoqvifs6xk65KEzN0/edit#slide=id.g3cf596d68a_1_192
+# Large-Scale Privacy-Preserving Statistical Computations for Distributed Genome-Wide Association Studies
+In 2000, the first human genome analysis took 9 months and cost
+100 million USD.
+# A new way to protect privacy in large-scale genome-wide association studies
+https://www.khanacademy.org/math/ap-statistics/chi-square-tests/chi-square-tests-two-way-tables/v/chi-square-test-association-independence
+The chi-square test of independence is used to analyze the frequency table (i.e. contengency table) formed by two categorical variables. The chi-square test evaluates whether there is a significant association between the categories of the two variables.
+http://www.sthda.com/english/wiki/chi-square-test-of-independence-in-r
+#Learning with Differential Privacy: Stability, Learnability and the Sufficiency and Necessity of ERM Principle
